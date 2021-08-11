@@ -1,22 +1,22 @@
 'use strict';
 
 
-let numb = 5;
-console.log(numb);
-const persone = "Sugak";
-console.log(persone);
-const bool = true;
+// let numb = 5;
+// console.log(numb);
+// const persone = "Sugak";
+// console.log(persone);
+// const bool = true;
 
-const obj = {
-    name: "Vlad",
-    age: 24,
-    isMar: true
-};
-console.log(obj.name);
-console.log(obj["age"]);
+// const obj = {
+//     name: "Vlad",
+//     age: 24,
+//     isMar: true
+// };
+// console.log(obj.name);
+// console.log(obj["age"]);
 
-let array = ['1', '2','3'];
-console.log(array[1]);
+// let array = ['1', '2','3'];
+// console.log(array[1]);
 
 //alert("sugak");
 
@@ -26,10 +26,33 @@ console.log(array[1]);
 //const answ = prompt("are u 18?", "18");
 //console.log(answ);
 
-const answers = [];
+//const answers = [];
 
-answers[0] = prompt("Ur name", '');
-answers[1] = prompt("Ur secname", '');
-answers[2] = prompt("Ur age", '');
-document.write(answers);
+//answers[0] = prompt("Ur name", '');
+//answers[1] = prompt("Ur secname", '');
+//answers[2] = prompt("Ur age", '');
+//document.write(answers);
+
+
+// let incr = 10, decr = 10;
+
+
+// incr++;
+// decr--;
+// console.log(incr++, decr--);
+// console.log(5%2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
